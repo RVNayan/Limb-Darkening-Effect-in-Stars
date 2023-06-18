@@ -4,7 +4,11 @@ to one of its corners. In scientific words, it’s an optical effect where as th
 <div align="center">
 <img src="/testimage.jpg" alt="Image 1" width="300" height="300"></div>
 
-This python code generates three plots namely
+This python code generates the following plots
+
 <img src="/img/RI.png" alt="Image 1" width="200" height="200">
 <img src="/img/IC.png" alt="Image 1" width="200" height="200">
-<img src="/img/RT.png" alt="Image 1" width="200" height="200"></div>
+<img src="/img/RT.png" alt="Image 1" width="200" height="200">
+
+Make sure you have matplotlib library installed and store you're test image using the name testimage.jpg
+Please read my essay on this topic for detailed analysis
