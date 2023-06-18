@@ -6,9 +6,9 @@ to one of its corners. In scientific words, it’s an optical effect where as th
 
 This python code generates the following plots
 <div style="display: flex; justify-content: center;">
-<img src="/img/RI.png" alt="Image 1"  style="margin: 0 10px;">
-<img src="/img/IC.png" alt="Image 1"  style="margin: 0 10px;">
-<img src="/img/RT.png" alt="Image 1"  style="margin: 0 10px;"></div>
+<img src="/img/RI.png" alt="Image 1"  width="250" height="250" style="margin: 0 10px;">
+<img src="/img/IC.png" alt="Image 1"   width="250" height="250" style="margin: 0 10px;">
+<img src="/img/RT.png" alt="Image 1"   width="250" height="250" style="margin: 0 10px;"></div>
 
 Make sure you have matplotlib library installed and store you're test image using the name testimage.jpg
 Please read my essay on this topic for detailed analysis
